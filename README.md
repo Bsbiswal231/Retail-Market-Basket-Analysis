@@ -31,13 +31,13 @@ Kaggle: https://www.kaggle.com/datasets/vijayuv/onlineretail
 ## Dashboard Screenshots
 
 ### Page 1 - Business Overview
-![Business Overview](D:\Internship\Online Internship\Retail Market Basket Analysis using Apriori Algorithm\Dashboards/Page1_Business_Overview.png)
+![Business Overview](Page1_Business_Overview.png)
 
 ### Page 2 - Sales Analysis
-![Sales Analysis](D:\Internship\Online Internship\Retail Market Basket Analysis using Apriori Algorithm\Dashboards/Page2_Sales_Analysis.png)
+![Sales Analysis](Page2_Sales_Analysis.png)
 
 ### Page 3 - Product Analysis
-![Product Analysis](D:\Internship\Online Internship\Retail Market Basket Analysis using Apriori Algorithm\Dashboards/Page3_Product_Analysis.png)
+![Product Analysis](Page3_Product_Analysis.png)
 
 ### Page 4 - Market Basket Insights
-![Market Basket Insights](D:\Internship\Online Internship\Retail Market Basket Analysis using Apriori Algorithm\Dashboards/Page4_Market_Basket_Insights.png)
+![Market Basket Insights](Page4_Market_Basket_Insights.png)
